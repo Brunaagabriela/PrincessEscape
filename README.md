@@ -49,26 +49,6 @@ A zombie wolf catches the princess.
 
 ---
 
-## Screenshots
-
-### Main Menu
-
-_Add screenshot here_
-
-### Gameplay
-
-_Add screenshot here_
-
-### Victory Screen
-
-_Add screenshot here_
-
-### Game Over Screen
-
-_Add screenshot here_
-
----
-
 ## Technologies
 
 - Python 3
